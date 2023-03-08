@@ -1,19 +1,31 @@
-# Bc. Adam Šárek
-* :e-mail: [E-mail](mailto:email@adamsarek.eu)
-* :earth_americas: [Website](https://adamsarek.eu)
-* :briefcase: [LinkedIn](https://www.linkedin.com/in/adamsarek)<br>
-* :mortar_board: [Scholar](https://scholar.google.com/citations?user=lhp9xHgAAAAJ)
-<picture>
-	<source            srcset="https://github-readme-stats.vercel.app/api?username=adamsarek&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark"
-		media="(prefers-color-scheme: dark)" />
-	<source            srcset="https://github-readme-stats.vercel.app/api?username=adamsarek&include_all_commits=true&count_private=true&show_icons=true&hide_border=true"
-		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-	<img                  src="https://github-readme-stats.vercel.app/api?username=adamsarek&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" />
-</picture><br>
-<picture>
-	<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsarek&layout=compact&langs_count=10&hide_border=true&theme=dark"
-		media="(prefers-color-scheme: dark)" />
-	<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsarek&layout=compact&langs_count=10&hide_border=true"
-		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-	<img       src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsarek&layout=compact&langs_count=10&hide_border=true" />
-</picture>
+<table>
+	<tr>
+		<td align="center">
+			<h1>Bc. Adam Šárek</h1>
+			:e-mail: <a href="mailto:email@adamsarek.eu" title="E-mail">E-mail</a>
+			:earth_americas: <a href="https://adamsarek.eu" title="Website">Website</a>
+			:briefcase: <a href="https://www.linkedin.com/in/adamsarek" title="LinkedIn">LinkedIn</a>
+			:mortar_board: <a href="https://scholar.google.com/citations?user=lhp9xHgAAAAJ" title="Scholar">Scholar</a>
+			<h3>:wave: About me</h3>
+			<div>:house: I'm from <a href="https://www.openstreetmap.org/relation/437354" title="Ostrava">Ostrava</a>, <a href="https://www.openstreetmap.org/relation/51684" title="Czechia">Czechia</a></div>
+			<div>:speech_balloon: I speak English, Czech & Slovak</div>
+			<div>:heart: I like programming & learning about new technologies</div>
+			<div>:fire: I'm currently finishing my engineering studies at the <a href="https://www.vsb.cz/en" title="Technical University of Ostrava">Technical University of Ostrava</a></div>
+			<br>
+			<picture>
+				<source            srcset="https://github-readme-stats.vercel.app/api?username=adamsarek&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark"
+					media="(prefers-color-scheme: dark)" height="215" />
+				<source            srcset="https://github-readme-stats.vercel.app/api?username=adamsarek&include_all_commits=true&count_private=true&show_icons=true&hide_border=true"
+					media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" height="215" />
+				<img                  src="https://github-readme-stats.vercel.app/api?username=adamsarek&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" height="215" />
+			</picture>
+			<picture>
+				<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsarek&layout=compact&langs_count=10&hide_border=true&theme=dark"
+					media="(prefers-color-scheme: dark)" height="215" />
+				<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsarek&layout=compact&langs_count=10&hide_border=true"
+					media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" height="215" />
+				<img       src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsarek&layout=compact&langs_count=10&hide_border=true" height="215" />
+			</picture>
+		</td>
+	</tr>
+</table>
