@@ -13,18 +13,18 @@
 			<div>:fire: I'm currently finishing my engineering studies at the <a href="https://www.vsb.cz/en" title="Technical University of Ostrava">Technical University of Ostrava</a></div>
 			<br>
 			<picture>
-				<source            srcset="https://github-readme-stats.vercel.app/api?username=adamsarek&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark"
+				<source            srcset="https://github-readme-stats-adamsarek.vercel.app/api?username=adamsarek&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark"
 					media="(prefers-color-scheme: dark)" height="215" />
-				<source            srcset="https://github-readme-stats.vercel.app/api?username=adamsarek&include_all_commits=true&count_private=true&show_icons=true&hide_border=true"
+				<source            srcset="https://github-readme-stats-adamsarek.vercel.app/api?username=adamsarek&include_all_commits=true&count_private=true&show_icons=true&hide_border=true"
 					media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" height="215" />
-				<img                  src="https://github-readme-stats.vercel.app/api?username=adamsarek&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" height="215" />
+				<img                  src="https://github-readme-stats-adamsarek.vercel.app/api?username=adamsarek&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" height="215" />
 			</picture>
 			<picture>
-				<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsarek&layout=compact&langs_count=10&hide_border=true&theme=dark"
+				<source srcset="https://github-readme-stats-adamsarek.vercel.app/api/top-langs/?username=adamsarek&layout=compact&langs_count=10&hide_border=true&theme=dark"
 					media="(prefers-color-scheme: dark)" height="215" />
-				<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsarek&layout=compact&langs_count=10&hide_border=true"
+				<source srcset="https://github-readme-stats-adamsarek.vercel.app/api/top-langs/?username=adamsarek&layout=compact&langs_count=10&hide_border=true"
 					media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" height="215" />
-				<img       src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsarek&layout=compact&langs_count=10&hide_border=true" height="215" />
+				<img       src="https://github-readme-stats-adamsarek.vercel.app/api/top-langs/?username=adamsarek&layout=compact&langs_count=10&hide_border=true" height="215" />
 			</picture>
 		</td>
 	</tr>
