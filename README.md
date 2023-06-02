@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Bc. Adam Šárek</h1>
+	<h1>Ing. Adam Šárek</h1>
 	:e-mail: <a href="mailto:email@adamsarek.eu" title="E-mail">E-mail</a>
 	:earth_americas: <a href="https://adamsarek.eu" title="Website">Website</a>
 	:briefcase: <a href="https://www.linkedin.com/in/adamsarek" title="LinkedIn">LinkedIn</a>
@@ -8,8 +8,9 @@
 	<h3>:wave: About me</h3>
 	<div>:house: I'm from <a href="https://www.openstreetmap.org/relation/437354" title="Ostrava">Ostrava</a>, <a href="https://www.openstreetmap.org/relation/51684" title="Czechia">Czechia</a></div>
 	<div>:speech_balloon: I speak English, Czech & Slovak</div>
+	<div>:mortar_board: I have completed my Master's degree at <a href="https://www.fei.vsb.cz/en" title="The Faculty of Electrical Engineering and Computer Science - Technical University of Ostrava">FEI VŠB-TUO</a></div>
 	<div>:heart: I like programming & learning about new technologies</div>
-	<div>:fire: I'm currently finishing my engineering studies at the <a href="https://www.vsb.cz/en" title="Technical University of Ostrava">Technical University of Ostrava</a></div>
+	<div>:desktop_computer: I'm software developer in JavaScript (HTML/CSS), C#, Java & Python</div>
 	<br>
 	<a href="https://wakatime.com/adamsarek" title="WakaTime">
 		<picture>
