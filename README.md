@@ -55,4 +55,23 @@
 			<img       src="https://github-readme-stats-adamsarek.vercel.app/api/pin/?username=adamsarek&repo=whiteboard-online&hide_border=true" width="316.5" />
 		</picture>
 	</a>
+	<br>
+	<a href="https://github.com/adamsarek/tao-enhancer" title="tao-enhancer">
+		<picture>
+			<source srcset="https://github-readme-stats-adamsarek.vercel.app/api/pin/?username=adamsarek&repo=tao-enhancer&hide_border=true&theme=dark"
+				media="(prefers-color-scheme: dark)" width="316.5" />
+			<source srcset="https://github-readme-stats-adamsarek.vercel.app/api/pin/?username=adamsarek&repo=tao-enhancer&hide_border=true"
+				media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width="316.5" />
+			<img       src="https://github-readme-stats-adamsarek.vercel.app/api/pin/?username=adamsarek&repo=tao-enhancer&hide_border=true" width="316.5" />
+		</picture>
+	</a>
+	<a href="https://github.com/adamsarek/vsb-tuo" title="vsb-tuo">
+		<picture>
+			<source srcset="https://github-readme-stats-adamsarek.vercel.app/api/pin/?username=adamsarek&repo=vsb-tuo&hide_border=true&theme=dark"
+				media="(prefers-color-scheme: dark)" width="316.5" />
+			<source srcset="https://github-readme-stats-adamsarek.vercel.app/api/pin/?username=adamsarek&repo=vsb-tuo&hide_border=true"
+				media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width="316.5" />
+			<img       src="https://github-readme-stats-adamsarek.vercel.app/api/pin/?username=adamsarek&repo=vsb-tuo&hide_border=true" width="316.5" />
+		</picture>
+	</a>
 </div>
